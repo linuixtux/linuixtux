@@ -1,4 +1,5 @@
 ### Hi there 👋
+![4042F28A-9C86-4741-957A-957510D4A33B](https://github.com/linuixtux/linuixtux/assets/161855383/9944629f-0b01-4740-88b7-428c0b15cf79)
 
 <!--
 **linuixtux/linuixtux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
